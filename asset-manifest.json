@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%3Cok-website%3E/static/css/main.a5b57358.css",
+    "main.js": "/%3Cok-website%3E/static/js/main.be0e8a87.js",
+    "index.html": "/%3Cok-website%3E/index.html",
+    "main.a5b57358.css.map": "/%3Cok-website%3E/static/css/main.a5b57358.css.map",
+    "main.be0e8a87.js.map": "/%3Cok-website%3E/static/js/main.be0e8a87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5b57358.css",
+    "static/js/main.be0e8a87.js"
+  ]
+}
