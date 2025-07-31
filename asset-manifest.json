@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ok-website/static/css/main.a5b57358.css",
-    "main.js": "/ok-website/static/js/main.be0e8a87.js",
-    "index.html": "/ok-website/index.html",
-    "main.a5b57358.css.map": "/ok-website/static/css/main.a5b57358.css.map",
-    "main.be0e8a87.js.map": "/ok-website/static/js/main.be0e8a87.js.map"
+    "main.css": "/static/css/main.a5b57358.css",
+    "main.js": "/static/js/main.be0e8a87.js",
+    "index.html": "/index.html",
+    "main.a5b57358.css.map": "/static/css/main.a5b57358.css.map",
+    "main.be0e8a87.js.map": "/static/js/main.be0e8a87.js.map"
   },
   "entrypoints": [
     "static/css/main.a5b57358.css",
