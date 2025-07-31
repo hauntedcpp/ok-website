@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ok-website/static/css/main.6b5a7c3b.css",
-    "main.js": "/ok-website/static/js/main.02ca3722.js",
+    "main.css": "/ok-website/static/css/main.34b86a87.css",
+    "main.js": "/ok-website/static/js/main.dee8fb8e.js",
     "index.html": "/ok-website/index.html",
-    "main.6b5a7c3b.css.map": "/ok-website/static/css/main.6b5a7c3b.css.map",
-    "main.02ca3722.js.map": "/ok-website/static/js/main.02ca3722.js.map"
+    "main.34b86a87.css.map": "/ok-website/static/css/main.34b86a87.css.map",
+    "main.dee8fb8e.js.map": "/ok-website/static/js/main.dee8fb8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b5a7c3b.css",
-    "static/js/main.02ca3722.js"
+    "static/css/main.34b86a87.css",
+    "static/js/main.dee8fb8e.js"
   ]
 }
